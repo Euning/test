@@ -1,3 +1,3 @@
 ﻿git hub 연습하기
-T.T
-1234!!!
+
+git config --list / 현재 정보 확인
