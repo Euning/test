@@ -1,3 +1,4 @@
 ﻿git hub 연습하기
 
 git config --list / 현재 정보 확인
+git push / 깃허브로 푸시
