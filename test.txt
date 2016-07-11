@@ -1,5 +1,10 @@
 ﻿git hub 연습하기
 
+git config --global user.name "이름"
+git config --global user.email "깃허브 메일주소" // 매번 물어보는 귀찮음을 피하기 위해 설정.
+
 git config --list / 현재 정보 확인
 git push / 깃허브로 푸시
 git pull / 깃허브 최신버전 가져오기
+git remote add origin git주소 / 로컬저장소와 깃허브 저장소 연결
+git remote set-url git주소 / 원격 저장소 URL변경
